@@ -10,7 +10,7 @@ env:
   ### Replace anver-dev with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: anver-dev-azure-ttt
-  AZURE_WEBAPP_NAME: anver-dev-ttt-app
+  AZURE_WEBAPP_NAME: anver-dev-azure-ttt
   ###############################################
 
 jobs:
